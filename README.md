@@ -2,7 +2,7 @@
 
 Custom-engineered handheld ground station PCB developed for **Team Sammard** to track, receive telemetry from, and recover high-powered sounding rockets post-touchdown. Built around an **STM32H743VIT6** microcontroller, the board computes real-time relative distance and azimuth bearing between the recovery team and the landed rocket.
 
-![SHROTA PRO PCB](docs/assembled_board.jpg)
+![SHROTA PRO PCB](docs/assembled_board.jpeg)
 
 ---
 
